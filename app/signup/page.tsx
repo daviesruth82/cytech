@@ -94,7 +94,7 @@ export default function Signup() {
             </div>
 
             {/* Sign Up */}
-            <Button type="submit" variant="darkblue" className="w-full h-12">
+            <Button type="submit" variant="dark" className="w-full h-12">
               Create Account
             </Button>
 
